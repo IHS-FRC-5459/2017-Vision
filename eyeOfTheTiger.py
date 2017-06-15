@@ -2,10 +2,7 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-#TODO: rewrite the findAngle so that it will work(unit converion)
-#TODO: test angle and write networkTable code
-#TODO: write calabration code for comp
-#TODO: ask
+
 
 import numpy as np
 import cv2
